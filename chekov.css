@@ -1,0 +1,26 @@
+.speech{
+      font-size: medium;
+      font-family: 'Times New Roman';
+      color: black;
+
+}
+
+.direction{
+    font-size: small;
+    font-family: Arial;
+    color: black;
+    background-color: aliceblue;
+}
+
+.direction:hover{
+    background-color: brown;
+    color: darkgoldenrod;
+}
+
+.SEREBRAKOFF{
+    color: blueviolet;
+}
+
+.HELENA{
+    color: aqua;
+}
