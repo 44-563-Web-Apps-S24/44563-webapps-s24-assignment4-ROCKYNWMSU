@@ -24,3 +24,26 @@
 .HELENA{
     color: aqua;
 }
+table {
+    border-color: black;
+    width: 50%;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+th {
+    border: 1px solid;
+    border-radius: 5px;
+    border-color:darkblue;
+    color: white;
+    height: 50px;
+    background-color:rgb(222, 39, 91);
+}
+td {
+    border: 1px solid;
+    border-radius: 5px;
+    border-color: rgb(32, 5, 132);
+    height: 30px;
+}
+
+tr:hover {background-color:dodgerblue;}
