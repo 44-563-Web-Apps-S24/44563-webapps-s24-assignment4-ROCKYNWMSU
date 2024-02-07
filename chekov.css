@@ -34,3 +34,10 @@ table,th,td{
     padding:2px;
     margin: 2px;
 }
+
+.SEREBRAKOFF:hover{
+    text-shadow: 1px 1px 4px rgb(84, 188, 19);
+}
+.HELENA:hover{
+    text-shadow: 1px 1px 4px rgb(39, 16, 59) ;
+}
