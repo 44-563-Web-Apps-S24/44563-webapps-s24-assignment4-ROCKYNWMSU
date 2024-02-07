@@ -24,26 +24,13 @@
 .HELENA{
     color: aqua;
 }
-table {
-    border-color: black;
-    width: 50%;
+table,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    background-color: rgb(165, 212, 25);
+    color: rgb(24, 21, 62);
     text-align: center;
-    padding: 10px;
-    margin: 10px;
+    row-gap: 20px;
+    padding:2px;
+    margin: 2px;
 }
-th {
-    border: 1px solid;
-    border-radius: 5px;
-    border-color:darkblue;
-    color: white;
-    height: 50px;
-    background-color:rgb(222, 39, 91);
-}
-td {
-    border: 1px solid;
-    border-radius: 5px;
-    border-color: rgb(32, 5, 132);
-    height: 30px;
-}
-
-tr:hover {background-color:dodgerblue;}
