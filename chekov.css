@@ -42,3 +42,23 @@ table,th,td{
 .HELENA:hover{
     text-shadow: 1px 1px 4px rgb(39, 16, 59) ;
 }
+
+ul.navbar-horizontal {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  
+  }
+  ul.navbar-horizontal li {
+    float:left;
+    color:#6d3636;
+    background-color:rgb(247, 247, 47);
+  } 
+  ul.navbar-horizontal a {
+    display:block;
+    padding:8px
+  }
+  ul.navbar-horizontal a:hover {  
+    background-color:rgb(52, 52, 221);
+    color:white;
+  }
